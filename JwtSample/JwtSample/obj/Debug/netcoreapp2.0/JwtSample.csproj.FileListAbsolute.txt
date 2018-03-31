@@ -1,0 +1,12 @@
+C:\Users\dzanet\Desktop\JWT\JwtSample\JwtSample\bin\Debug\netcoreapp2.0\Scripts\01_Identity.sql
+C:\Users\dzanet\Desktop\JWT\JwtSample\JwtSample\bin\Debug\netcoreapp2.0\JwtSample.deps.json
+C:\Users\dzanet\Desktop\JWT\JwtSample\JwtSample\bin\Debug\netcoreapp2.0\JwtSample.runtimeconfig.json
+C:\Users\dzanet\Desktop\JWT\JwtSample\JwtSample\bin\Debug\netcoreapp2.0\JwtSample.runtimeconfig.dev.json
+C:\Users\dzanet\Desktop\JWT\JwtSample\JwtSample\bin\Debug\netcoreapp2.0\JwtSample.dll
+C:\Users\dzanet\Desktop\JWT\JwtSample\JwtSample\bin\Debug\netcoreapp2.0\JwtSample.pdb
+C:\Users\dzanet\Desktop\JWT\JwtSample\JwtSample\obj\Debug\netcoreapp2.0\JwtSample.csprojResolveAssemblyReference.cache
+C:\Users\dzanet\Desktop\JWT\JwtSample\JwtSample\obj\Debug\netcoreapp2.0\JwtSample.csproj.CoreCompileInputs.cache
+C:\Users\dzanet\Desktop\JWT\JwtSample\JwtSample\obj\Debug\netcoreapp2.0\JwtSample.AssemblyInfoInputs.cache
+C:\Users\dzanet\Desktop\JWT\JwtSample\JwtSample\obj\Debug\netcoreapp2.0\JwtSample.AssemblyInfo.cs
+C:\Users\dzanet\Desktop\JWT\JwtSample\JwtSample\obj\Debug\netcoreapp2.0\JwtSample.dll
+C:\Users\dzanet\Desktop\JWT\JwtSample\JwtSample\obj\Debug\netcoreapp2.0\JwtSample.pdb

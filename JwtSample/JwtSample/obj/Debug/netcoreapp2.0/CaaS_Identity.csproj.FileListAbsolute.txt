@@ -1,0 +1,36 @@
+c:\users\dzanet\documents\visual studio 2017\Projects\CaaS_Identity\CaaS_Identity\bin\Debug\netcoreapp2.0\CaaS_Identity.deps.json
+c:\users\dzanet\documents\visual studio 2017\Projects\CaaS_Identity\CaaS_Identity\bin\Debug\netcoreapp2.0\CaaS_Identity.runtimeconfig.json
+c:\users\dzanet\documents\visual studio 2017\Projects\CaaS_Identity\CaaS_Identity\bin\Debug\netcoreapp2.0\CaaS_Identity.runtimeconfig.dev.json
+c:\users\dzanet\documents\visual studio 2017\Projects\CaaS_Identity\CaaS_Identity\bin\Debug\netcoreapp2.0\CaaS_Identity.dll
+c:\users\dzanet\documents\visual studio 2017\Projects\CaaS_Identity\CaaS_Identity\bin\Debug\netcoreapp2.0\CaaS_Identity.pdb
+c:\users\dzanet\documents\visual studio 2017\Projects\CaaS_Identity\CaaS_Identity\obj\Debug\netcoreapp2.0\CaaS_Identity.csprojResolveAssemblyReference.cache
+c:\users\dzanet\documents\visual studio 2017\Projects\CaaS_Identity\CaaS_Identity\obj\Debug\netcoreapp2.0\CaaS_Identity.csproj.CoreCompileInputs.cache
+c:\users\dzanet\documents\visual studio 2017\Projects\CaaS_Identity\CaaS_Identity\obj\Debug\netcoreapp2.0\CaaS_Identity.AssemblyInfoInputs.cache
+c:\users\dzanet\documents\visual studio 2017\Projects\CaaS_Identity\CaaS_Identity\obj\Debug\netcoreapp2.0\CaaS_Identity.AssemblyInfo.cs
+c:\users\dzanet\documents\visual studio 2017\Projects\CaaS_Identity\CaaS_Identity\obj\Debug\netcoreapp2.0\CaaS_Identity.dll
+c:\users\dzanet\documents\visual studio 2017\Projects\CaaS_Identity\CaaS_Identity\obj\Debug\netcoreapp2.0\CaaS_Identity.pdb
+C:\Users\dzanet\Documents\Visual Studio 2017\Projects\CaaS_Identity\CaaS_Identity\bin\Debug\netcoreapp2.0\Scripts\01_Identity.sql
+C:\Users\dzanet\Desktop\CaaS\CaaS_Identity\CaaS_Identity\bin\Debug\netcoreapp2.0\Scripts\01_Identity.sql
+C:\Users\dzanet\Desktop\CaaS\CaaS_Identity\CaaS_Identity\bin\Debug\netcoreapp2.0\CaaS_Identity.deps.json
+C:\Users\dzanet\Desktop\CaaS\CaaS_Identity\CaaS_Identity\bin\Debug\netcoreapp2.0\CaaS_Identity.runtimeconfig.json
+C:\Users\dzanet\Desktop\CaaS\CaaS_Identity\CaaS_Identity\bin\Debug\netcoreapp2.0\CaaS_Identity.runtimeconfig.dev.json
+C:\Users\dzanet\Desktop\CaaS\CaaS_Identity\CaaS_Identity\bin\Debug\netcoreapp2.0\CaaS_Identity.dll
+C:\Users\dzanet\Desktop\CaaS\CaaS_Identity\CaaS_Identity\bin\Debug\netcoreapp2.0\CaaS_Identity.pdb
+C:\Users\dzanet\Desktop\CaaS\CaaS_Identity\CaaS_Identity\obj\Debug\netcoreapp2.0\CaaS_Identity.csprojResolveAssemblyReference.cache
+C:\Users\dzanet\Desktop\CaaS\CaaS_Identity\CaaS_Identity\obj\Debug\netcoreapp2.0\CaaS_Identity.csproj.CoreCompileInputs.cache
+C:\Users\dzanet\Desktop\CaaS\CaaS_Identity\CaaS_Identity\obj\Debug\netcoreapp2.0\CaaS_Identity.AssemblyInfoInputs.cache
+C:\Users\dzanet\Desktop\CaaS\CaaS_Identity\CaaS_Identity\obj\Debug\netcoreapp2.0\CaaS_Identity.AssemblyInfo.cs
+C:\Users\dzanet\Desktop\CaaS\CaaS_Identity\CaaS_Identity\obj\Debug\netcoreapp2.0\CaaS_Identity.dll
+C:\Users\dzanet\Desktop\CaaS\CaaS_Identity\CaaS_Identity\obj\Debug\netcoreapp2.0\CaaS_Identity.pdb
+C:\Users\dzanet\Desktop\JWT\CaaS_Identity\CaaS_Identity\bin\Debug\netcoreapp2.0\Scripts\01_Identity.sql
+C:\Users\dzanet\Desktop\JWT\CaaS_Identity\CaaS_Identity\bin\Debug\netcoreapp2.0\CaaS_Identity.deps.json
+C:\Users\dzanet\Desktop\JWT\CaaS_Identity\CaaS_Identity\bin\Debug\netcoreapp2.0\CaaS_Identity.runtimeconfig.json
+C:\Users\dzanet\Desktop\JWT\CaaS_Identity\CaaS_Identity\bin\Debug\netcoreapp2.0\CaaS_Identity.runtimeconfig.dev.json
+C:\Users\dzanet\Desktop\JWT\CaaS_Identity\CaaS_Identity\bin\Debug\netcoreapp2.0\CaaS_Identity.dll
+C:\Users\dzanet\Desktop\JWT\CaaS_Identity\CaaS_Identity\bin\Debug\netcoreapp2.0\CaaS_Identity.pdb
+C:\Users\dzanet\Desktop\JWT\CaaS_Identity\CaaS_Identity\obj\Debug\netcoreapp2.0\CaaS_Identity.csprojResolveAssemblyReference.cache
+C:\Users\dzanet\Desktop\JWT\CaaS_Identity\CaaS_Identity\obj\Debug\netcoreapp2.0\CaaS_Identity.csproj.CoreCompileInputs.cache
+C:\Users\dzanet\Desktop\JWT\CaaS_Identity\CaaS_Identity\obj\Debug\netcoreapp2.0\CaaS_Identity.AssemblyInfoInputs.cache
+C:\Users\dzanet\Desktop\JWT\CaaS_Identity\CaaS_Identity\obj\Debug\netcoreapp2.0\CaaS_Identity.AssemblyInfo.cs
+C:\Users\dzanet\Desktop\JWT\CaaS_Identity\CaaS_Identity\obj\Debug\netcoreapp2.0\CaaS_Identity.dll
+C:\Users\dzanet\Desktop\JWT\CaaS_Identity\CaaS_Identity\obj\Debug\netcoreapp2.0\CaaS_Identity.pdb
